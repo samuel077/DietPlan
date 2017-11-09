@@ -17,3 +17,13 @@ Please note that on each day, his weight changes after a change in stress point.
 
 If Bob's weight before the start of the diet plan is "W"kg, what is the minimum weight he can be in "N" days
 </pre>
+
+The expected result of that example is:
+<pre>
+Day 1 not eat
+Day 2 not eat
+Day 3 not eat
+Day 4 not eat
+Day 5 eat
+final weight = 61
+</pre>
